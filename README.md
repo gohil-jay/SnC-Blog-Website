@@ -1,6 +1,6 @@
 # SnC-Blog-Website
 
-This is the repository for mywork on Debate Scociety's blog website, which is currently live on SnC's official website.
+This is the repository for my work on Debate Scociety's blog website, which is currently live on SnC's official website.
 
 Check out the live website at [DebSoc](https://sncpdpu.com/debsoc/index.html)
 
